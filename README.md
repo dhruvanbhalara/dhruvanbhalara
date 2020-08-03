@@ -51,5 +51,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvanbhalara&theme=dark&hide_langs_below=1" />
 </a>
 
+<h3>🏆 Github Status</h3></br>
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=dhruvanbhalara&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&include_all_commits=true)
 </div>
