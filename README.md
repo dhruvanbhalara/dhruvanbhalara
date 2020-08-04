@@ -1,6 +1,6 @@
 ## Hola, I'm Dhruvan Bhalara <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvanbhalara&label=Views&color=blue&style=plastic" alt="dhruvanbhalara" /> </p>
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/dhruvanbhalara/&title=Profile%20Views)
 
 <a href="https://twitter.com/dhruvanbhalara">
   <img align="left" alt="Dhruvan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
