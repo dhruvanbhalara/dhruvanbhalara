@@ -3,28 +3,25 @@
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/dhruvanbhalara/&title=Profile%20Views)
 
 <a href="https://twitter.com/dhruvanbhalara">
-  <img align="left" alt="Dhruvan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Dhruvan's Twitter" height="25" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 <a href="https://linkedin.com/in/dhruvanbhalara">
-  <img align="left" alt="Dhruvan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/dhruvanbhalara">
-  <img align="left" alt="Dhruvan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Dhruvan's Linkdein" height="25" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://t.me/dhruvanbhalara">
-  <img align="left" alt="Dhruvan's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Dhruvan's Telegram" height="25" src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 <a href="https://instagram.com/dhruvanbhalara/">
-  <img align="left" alt="Dhruvan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Dhruvan's Instagram" height="25" src="https://img.shields.io/badge/instagram-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="https://www.facebook.com/dhruvanbhalara/">
-  <img align="left" alt="Dhruvan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Dhruvan's Facebook" height="25" src="https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
 <br/>
 <br/>
 
-- 🔭 I’m currently working on [Prix](https://play.google.com/store/apps/details?id=com.raze.prix)
+- 🔭 I’m currently working on [Prix](https://play.google.com/store/apps/details?id=com.raze.prix) [Shooting Diaries (Play Store)](https://play.google.com/store/apps/details?id=com.dhruvanbhalara.shootingdiaries) [Shooting Diaries (App Store)](https://apps.apple.com/us/app/the-shooting-diaries/id1536516902)
 - 👨🏽‍💻 I’m currently working on improving my techskill
 - 🌱 I’m currently learning Go, Node JS, Python.
 - 💬 Ask me about Flutter or any tech related stuff.
@@ -37,6 +34,7 @@
 [![Twitter: dhruvanbhalara](https://img.shields.io/twitter/follow/dhruvanbhalara?style=social)](https://twitter.com/dhruvanbhalara)
 [![Linkedin: dhruvanbhalara](https://img.shields.io/badge/-dhruvanbhalara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhruvanbhalara/)](https://www.linkedin.com/in/dhruvanbhalara/)
 [![GitHub dhruvanbhalara](https://img.shields.io/github/followers/dhruvanbhalara?label=follow&style=social)](https://github.com/dhruvanbhalara)
+[![Instagram dhruvanbhalara](https://img.shields.io/badge/-dhruvanbhalara-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/dhruvanbhalara?/)](https://instagram.com/dhruvanbhalara)
 
 
 **Languages and Tools:**  
