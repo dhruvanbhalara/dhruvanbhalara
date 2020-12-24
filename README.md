@@ -21,7 +21,7 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on [Prix](https://play.google.com/store/apps/details?id=com.raze.prix) [Shooting Diaries (Play Store)](https://play.google.com/store/apps/details?id=com.dhruvanbhalara.shootingdiaries) [Shooting Diaries (App Store)](https://apps.apple.com/us/app/the-shooting-diaries/id1536516902)
+- 🔭 Checkout my work [Here](https://dhruvanbhalara.github.io)
 - 👨🏽‍💻 I’m currently working on improving my techskill
 - 🌱 I’m currently learning Go, Node JS, Python.
 - 💬 Ask me about Flutter or any tech related stuff.
