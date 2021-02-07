@@ -3,19 +3,19 @@
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/dhruvanbhalara/&title=Profile%20Views)
 
 <a href="https://twitter.com/dhruvanbhalara">
-  <img align="left" alt="Dhruvan's Twitter" height="25" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  <img align="left" alt="Dhruvan's Twitter" height="25" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />
 </a>
 <a href="https://linkedin.com/in/dhruvanbhalara">
-  <img align="left" alt="Dhruvan's Linkdein" height="25" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img align="left" alt="Dhruvan's Linkdein" height="25" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />
 </a>
 <a href="https://t.me/dhruvanbhalara">
-  <img align="left" alt="Dhruvan's Telegram" height="25" src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
+  <img align="left" alt="Dhruvan's Telegram" height="25" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" />
 </a>
 <a href="https://instagram.com/dhruvanbhalara/">
-  <img align="left" alt="Dhruvan's Instagram" height="25" src="https://img.shields.io/badge/instagram-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  <img align="left" alt="Dhruvan's Instagram" height="25" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" />
 </a>
 <a href="https://www.facebook.com/dhruvanbhalara/">
-  <img align="left" alt="Dhruvan's Facebook" height="25" src="https://img.shields.io/badge/facebook-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+  <img align="left" alt="Dhruvan's Facebook" height="25" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
 </a>
 
 <br/>
@@ -46,7 +46,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 <a href="https://github.com/dhruvanbhalara">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvanbhalara&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvanbhalara&theme=dark" />
 </a>
 
 <h3>🏆 Github Status</h3></br>
