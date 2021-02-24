@@ -21,7 +21,7 @@
 <br/>
 <br/>
 
-- 🔭 Checkout my work [Here](https://dhruvanbhalara.github.io)
+- 🔭 Checkout my work [Here](https://dhruvanbhalara.netlify.app)
 - 👨🏽‍💻 I’m currently working on improving my techskill
 - 🌱 I’m currently learning React Native, Go, Python.
 - 💬 Ask me about Flutter or any tech related stuff.
