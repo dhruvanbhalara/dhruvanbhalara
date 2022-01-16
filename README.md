@@ -1,7 +1,11 @@
 ## Hola, I'm Dhruvan Bhalara <img src="https://github.com/dhruvanbhalara/dhruvanbhalara/blob/master/Assets/Hi.gif" width="29px"> 
 
-[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello_Developers-Welcome-gold.svg?style=flat&logo=github)](https://github.com/dhruvanbhalara) [![Profile](https://Visitor-badge.glitch.me/badge?page_id=dhruvanbhalara.profileviews-badge)](https://github.com/dhruvanbhalara) [![Followers](https://img.shields.io/github/followers/dhruvanbhalara?style=social)](https://github.com/dhruvanbhalara?tab=followers) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/dhruvanbhalara) [![Repos Badge](https://badges.pufler.dev/repos/dhruvanbhalara)](https://badges.pufler.dev/repos/dhruvanbhalara) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://linkedin.com/in/dhruvanbhalara/)
-<br>
+[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello_Developers-Welcome-gold.svg?style=flat&logo=github)](https://github.com/dhruvanbhalara)
+ [![Profile](https://Visitor-badge.glitch.me/badge?page_id=dhruvanbhalara.profileviews-badge)](https://github.com/dhruvanbhalara)
+ [![Followers](https://img.shields.io/github/followers/dhruvanbhalara?style=social)](https://github.com/dhruvanbhalara?tab=followers)
+ [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/dhruvanbhalara)
+ [![Repos Badge](https://badges.pufler.dev/repos/dhruvanbhalara)](https://badges.pufler.dev/repos/dhruvanbhalara)
+ [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://linkedin.com/in/dhruvanbhalara/)
 <br>
 
 - 🔭 Checkout my work [Here](https://dhruvanbhalara.netlify.app)
@@ -12,7 +16,6 @@
 -  I Love <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" height="18px"> Dart & <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" height="18px">Flutter
 - Im looking to collaborate
 - 💬 Ask me about anything, I am happy to help
-
 </br>
 <h3> ⚒️ Tools and Programming Languages:- </h3>
 <p align="left">
