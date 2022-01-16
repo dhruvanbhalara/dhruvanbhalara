@@ -32,7 +32,7 @@
 
 ### 🏆 Github Trophies:-
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dhruvanbhalara&theme=dracula&no-bg=true&no-frame=true&column=3&margin-w=15&margin-h=15)](https://github.com/dhruvanbhalara/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dhruvanbhalara&theme=dracula&no-bg=true&column=3&margin-w=15&margin-h=15)](https://github.com/dhruvanbhalara/github-profile-trophy)
 </br>
 
 <h3> Github Status</h3>
