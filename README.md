@@ -4,7 +4,6 @@
  [![Profile](https://Visitor-badge.glitch.me/badge?page_id=dhruvanbhalara.profileviews-badge)](https://github.com/dhruvanbhalara)
  [![Followers](https://img.shields.io/github/followers/dhruvanbhalara?style=social)](https://github.com/dhruvanbhalara?tab=followers)
  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/dhruvanbhalara)
- [![Repos Badge](https://badges.pufler.dev/repos/dhruvanbhalara)](https://badges.pufler.dev/repos/dhruvanbhalara)
  [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://linkedin.com/in/dhruvanbhalara/)
 <br>
 
