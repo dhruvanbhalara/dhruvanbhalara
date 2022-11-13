@@ -47,10 +47,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvanbhalara&layout=compact&theme=vision-friendly-dark&langs_count=7)](https://github.com/dhruvanbhalara/github-readme-stats)
 </br>
 
-### Github Activity Graph:-
-
-[![Dhruvan's github activity graph](https://activity-graph.herokuapp.com/graph?username=dhruvanbhalara&theme=react-dark)](https://github.com/dhruvanbhalara/github-readme-activity-graph)
-
 
 <div align="center">
   <h3 align="center">Connect with me<img align="center" src="https://github.com/dhruvanbhalara/dhruvanbhalara/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
