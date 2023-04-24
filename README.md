@@ -34,17 +34,43 @@
 
 <h3> Github Status</h3>
 
-[![Dhruvan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruvanbhalara&theme=radical&count_private=true&show_icons=true)](https://github.com/dhruvanbhalara/github-readme-stats)
-</br>
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=dhruvanbhalara&count_private=true&show_icons=true"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=dhruvanbhalara&count_private=true&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=dhruvanbhalara&show_icons=true" />
+</picture>
 
 ### Most Used Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvanbhalara&layout=compact&theme=vision-friendly-dark&langs_count=7)](https://github.com/dhruvanbhalara/github-readme-stats)
-</br>
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvanbhalara&layout=compact&langs_count=10"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="hhttps://github-readme-stats.vercel.app/api/top-langs/?username=dhruvanbhalara&layout=compact&langs_count=10"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=dhruvanbhalara&show_icons=true" />
+</picture>
 
 ### 🏆 Github Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=dhruvanbhalara&theme=dracula&no-bg=true&column=3&margin-w=15&margin-h=15)](https://github.com/dhruvanbhalara/github-profile-trophy)
+<picture>
+<source
+  srcset="https://github-profile-trophy.vercel.app/?username=dhruvanbhalara&column=4&margin-w=15&margin-h=25"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-profile-trophy.vercel.app/?username=dhruvanbhalara&column=4&margin-w=15&margin-h=25"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=dhruvanbhalara&show_icons=true" />
+</picture>
 </br>
 
 <div align="center">
