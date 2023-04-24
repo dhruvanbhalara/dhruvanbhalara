@@ -37,12 +37,12 @@
 [![Dhruvan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruvanbhalara&theme=radical&count_private=true&show_icons=true)](https://github.com/dhruvanbhalara/github-readme-stats)
 </br>
 
-### Most Used Languages:-
+### Most Used Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvanbhalara&layout=compact&theme=vision-friendly-dark&langs_count=7)](https://github.com/dhruvanbhalara/github-readme-stats)
 </br>
 
-### 🏆 Github Trophies:-
+### 🏆 Github Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dhruvanbhalara&theme=dracula&no-bg=true&column=3&margin-w=15&margin-h=15)](https://github.com/dhruvanbhalara/github-profile-trophy)
 </br>
