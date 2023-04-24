@@ -36,7 +36,7 @@
 
 <picture>
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=dhruvanbhalara&count_private=true&show_icons=true"
+  srcset="https://github-readme-stats.vercel.app/api?username=dhruvanbhalara&count_private=true&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
 <source
@@ -49,7 +49,7 @@
 ### Most Used Languages
 <picture>
 <source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvanbhalara&layout=compact&langs_count=10"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvanbhalara&layout=compact&langs_count=10&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
 <source
@@ -62,7 +62,7 @@
 ### 🏆 Github Trophies
 <picture>
 <source
-  srcset="https://github-profile-trophy.vercel.app/?username=dhruvanbhalara&column=4&margin-w=15&margin-h=25"
+  srcset="https://github-profile-trophy.vercel.app/?username=dhruvanbhalara&column=4&margin-w=15&margin-h=25&theme=onedark&no-bg=false"
   media="(prefers-color-scheme: dark)"
 />
 <source
