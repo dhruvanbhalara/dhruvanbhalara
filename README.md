@@ -1,7 +1,7 @@
 ## Hola, I'm Dhruvan Bhalara <img src="https://github.com/dhruvanbhalara/dhruvanbhalara/blob/master/Assets/Hi.gif" width="29px"> 
 
 [![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello_Developers-Welcome-gold.svg?style=flat&logo=github)](https://github.com/dhruvanbhalara)
- [![Profile](https://Visitor-badge.glitch.me/badge?page_id=dhruvanbhalara.profileviews-badge)](https://github.com/dhruvanbhalara)
+ [![Profile](https://komarev.com/ghpvc/?username=dhruvanbhalara&color=blue&style=flat)](https://github.com/dhruvanbhalara)
  [![Followers](https://img.shields.io/github/followers/dhruvanbhalara?style=social)](https://github.com/dhruvanbhalara?tab=followers)
  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/dhruvanbhalara)
  [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://linkedin.com/in/dhruvanbhalara/)
