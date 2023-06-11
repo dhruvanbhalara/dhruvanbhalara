@@ -32,8 +32,21 @@
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width=40px>
 </p>
 
-<h3> Github Status</h3>
+<picture>
+<source
+  srcset="dist/github-contribution-grid-snake-dark.svg#gh-dark-mode-only.svg"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="dist/github-contribution-grid-snake.svg#gh-light-mode-only.svg"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
 
+<img src="dist/github-contribution-grid-snake.svg#gh-light-mode-only.svg" alt="Snake image" />
+</picture>
+
+
+<h3> Github Status</h3>
 <picture>
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=dhruvanbhalara&count_private=true&show_icons=true&theme=dark"
