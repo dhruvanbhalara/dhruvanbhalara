@@ -1,4 +1,4 @@
-## Hola, I'm Dhruvan Bhalara <img src="https://github.com/dhruvanbhalara/dhruvanbhalara/blob/master/Assets/Hi.gif" width="29px"> 
+## Hola, I'm Dhruvan Bhalara <img src="Assets/Hi.gif" width="29px"> 
 
 [![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello_Developers-Welcome-gold.svg?style=flat&logo=github)](https://github.com/dhruvanbhalara)
  [![Profile](https://komarev.com/ghpvc/?username=dhruvanbhalara&color=blue&style=flat)](https://github.com/dhruvanbhalara)
@@ -74,7 +74,7 @@
 </br>
 
 <div align="center">
-  <h3 align="center">Connect with me<img align="center" src="https://github.com/dhruvanbhalara/dhruvanbhalara/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
+  <h3 align="center">Connect with me<img align="center" src="Assets/Handshake.gif" height="33px" /></h3> 
 </div>
 <p align="center">
  <a href="https://linkedin.com/in/dhruvanbhalara" target="blank">
