@@ -72,6 +72,14 @@
 <img src="https://github-readme-stats.vercel.app/api?username=dhruvanbhalara&show_icons=true" />
 </picture>
 
+📊 **This week I spent my time on**
+<!--START_SECTION:waka-->
+
+```txt
+
+```
+<!--END_SECTION:waka-->
+
 ### 🏆 Github Trophies
 <picture>
 <source
