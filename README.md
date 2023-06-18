@@ -9,7 +9,7 @@
 
 - 🔭 Checkout my work [Here](https://dhruvanbhalara.netlify.app)
 - 👨🏽‍💻 I’m currently working on improving my tech skills.
-- 🌱 I’m currently learning React Native, Go, Python, Node JS.
+- 🌱 I’m currently learning Go, Python, Node JS.
 - 💬 Ask me about Flutter or any tech related stuff.
 - I do freelancing, dm me if you are interested in hiring.
 -  I Love <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" height="18px"> Dart & <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" height="18px">Flutter
