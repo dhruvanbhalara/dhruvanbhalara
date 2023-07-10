@@ -77,11 +77,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 33 hrs 59 mins
+Total Time: 33 hrs 54 mins
 
-Dart                          28 hrs 54 mins  >>>>>>>>>>>>>>>>>>>>>----   85.03 %
-YAML                          2 hrs 5 mins    >>-----------------------   06.18 %
-JavaScript                    1 hr 24 mins    >------------------------   04.17 %
+Dart                          28 hrs 49 mins  >>>>>>>>>>>>>>>>>>>>>----   85.00 %
+YAML                          2 hrs 5 mins    >>-----------------------   06.19 %
+JavaScript                    1 hr 24 mins    >------------------------   04.18 %
 Markdown                      35 mins         -------------------------   01.73 %
 textmate                      18 mins         -------------------------   00.89 %
 GitIgnore file                15 mins         -------------------------   00.74 %
