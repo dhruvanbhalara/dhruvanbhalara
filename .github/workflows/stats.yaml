@@ -11,11 +11,9 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: miermontoto/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: false
-          BLOCKS: ->
-          SHOW_TIME: true
-          SHOW_MASKED_TIME: true
-          LANG_COUNT: 10
+          GH_TOKEN: ${{ secrets.README_TOKEN }}
+          COMMIT_BY_ME: "True"
+          SHOW_LINES_OF_CODE : "True"
