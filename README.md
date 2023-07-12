@@ -17,21 +17,19 @@
 - Im looking to collaborate
 - 💬 Ask me about anything, I am happy to help
 </br>
+
 <h3> ⚒️ Tools and Programming Languages:- </h3>
-<p align="left">
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width=40px>
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40px"/>
-<img src="https://img.icons8.com/ultraviolet/40/000000/react--v2.png" width="40px"/>
-<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="40px"/>
-<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width=40px>
-<img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" width=40px>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width=40px>
-<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width=40px>
-<img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" width=40px>
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width=40px>
-<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width=40px>
-</p>
+<picture>
+<source
+  srcset="https://skillicons.dev/icons?i=flutter,dart,react,typescript,javascript,kotlin,swift,git,github,gitlab,firebase,mongodb,idea,androidstudio,figma,xd,githubactions,heroku,linux&theme=dark&perline=7"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://skillicons.dev/icons?i=flutter,dart,react,typescript,javascript,kotlin,swift,git,github,gitlab,firebase,mongodb,idea,androidstudio,figma,xd,githubactions,heroku,linux&theme=light&perline=7"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,typescript,javascript,kotlin,swift,git,github,gitlab,firebase,mongodb,idea,androidstudio,figma,xd,githubactions,heroku,linux&theme=light&perline=7" />
+</picture>
 
 <picture>
 <source
