@@ -28,7 +28,7 @@
   srcset="https://skillicons.dev/icons?i=flutter,dart,react,typescript,javascript,kotlin,swift,git,github,gitlab,firebase,mongodb,idea,androidstudio,figma,xd,githubactions,heroku,linux&theme=light&perline=7"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://skillicons.dev/icons?i=flutter,dart,react,typescript,javascript,kotlin,swift,git,github,gitlab,firebase,mongodb,idea,androidstudio,figma,xd,githubactions,heroku,linux&theme=light&perline=7" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,typescript,javascript,kotlin,swift,git,github,gitlab,firebase,mongodb,idea,androidstudio,figma,xd,githubactions,heroku,linux&perline=7" />
 </picture>
 
 <picture>
