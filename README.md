@@ -84,7 +84,7 @@
 </picture>
 </br>
 
-📊 **This week I spent my time on**
+### 📊 This week I spent my time on
 <!--START_SECTION:waka-->
 
 ```txt
