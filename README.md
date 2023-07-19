@@ -44,19 +44,6 @@
 <img src="dist/github-contribution-grid-snake.svg#gh-light-mode-only.svg" alt="Snake image" />
 </picture>
 
-<h3> GitHub Streak</h3>
-<picture>
-<source
-  srcset="https://streak-stats.demolab.com/?user=dhruvanbhalara&currStreakNum=2FD3EB&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://streak-stats.demolab.com/?user=dhruvanbhalara&currStreakNum=2FD3EB"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://streak-stats.demolab.com/?user=dhruvanbhalara&currStreakNum=2FD3EB" />
-</picture>
-
 <h3> Github Status</h3>
 <picture>
 <source
