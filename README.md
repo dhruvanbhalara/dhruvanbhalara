@@ -65,10 +65,10 @@
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="hhttps://github-readme-stats.vercel.app/api/top-langs/?username=dhruvanbhalara&layout=compact&langs_count=10"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvanbhalara&layout=compact&langs_count=10"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=dhruvanbhalara&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvanbhalara&layout=compact&langs_count=10" />
 </picture>
 </br>
 
