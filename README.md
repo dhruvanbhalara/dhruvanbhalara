@@ -76,18 +76,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 12 hrs 4 mins
+Total Time: 10 hrs 37 mins
 
-Dart                          11 hrs 46 mins  >>>>>>>>>>>>>>>>>>>>>>>>-   97.50 %
-YAML                          10 mins         -------------------------   01.42 %
-Markdown                      3 mins          -------------------------   00.49 %
-ActionScript 3                2 mins          -------------------------   00.31 %
-GitIgnore file                0 secs          -------------------------   00.10 %
-Application Resource Bundle   0 secs          -------------------------   00.09 %
-Assembly                      0 secs          -------------------------   00.04 %
-Ezhil                         0 secs          -------------------------   00.03 %
-textmate                      0 secs          -------------------------   00.02 %
-Shell Script                  0 secs          -------------------------   00.00 %
+Dart             10 hrs 20 mins  >>>>>>>>>>>>>>>>>>>>>>>>-   97.30 %
+YAML             10 mins         -------------------------   01.62 %
+Markdown         3 mins          -------------------------   00.56 %
+ActionScript 3   2 mins          -------------------------   00.35 %
+GitIgnore file   0 secs          -------------------------   00.11 %
+Ezhil            0 secs          -------------------------   00.03 %
+textmate         0 secs          -------------------------   00.02 %
+Shell Script     0 secs          -------------------------   00.00 %
 ```
 
 <!--END_SECTION:waka-->
