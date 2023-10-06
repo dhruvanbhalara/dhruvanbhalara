@@ -19,5 +19,7 @@ jobs:
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
           LANG_COUNT: 10
+          COMMITTER_NAME: Dhruvan Bhalara
+          COMMITTER_EMAIL: dhruvanbhalara@users.noreply.github.com
           AUTHOR_NAME: Dhruvan Bhalara
           AUTHOR_EMAIL: dhruvanbhalara@users.noreply.github.com
