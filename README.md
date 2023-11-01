@@ -76,18 +76,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 27 hrs 20 mins
+Total Time: 26 hrs 3 mins
 
-Dart                          24 hrs 8 mins   >>>>>>>>>>>>>>>>>>>>>>---   88.29 %
-Groovy                        43 mins         >------------------------   02.63 %
-Gradle                        38 mins         >------------------------   02.32 %
-YAML                          30 mins         -------------------------   01.88 %
-textmate                      26 mins         -------------------------   01.59 %
-Application Resource Bundle   17 mins         -------------------------   01.06 %
-Java Properties               11 mins         -------------------------   00.73 %
-Assembly                      7 mins          -------------------------   00.48 %
-XML                           6 mins          -------------------------   00.42 %
-ObjectiveC                    5 mins          -------------------------   00.34 %
+Dart                          22 hrs 25 mins  >>>>>>>>>>>>>>>>>>>>>>---   86.07 %
+YAML                          46 mins         >------------------------   02.96 %
+Groovy                        43 mins         >------------------------   02.76 %
+Gradle                        38 mins         >------------------------   02.43 %
+textmate                      28 mins         -------------------------   01.85 %
+Application Resource Bundle   17 mins         -------------------------   01.11 %
+Java Properties               11 mins         -------------------------   00.76 %
+Text                          11 mins         -------------------------   00.74 %
+ObjectiveC                    10 mins         -------------------------   00.68 %
+XML                           6 mins          -------------------------   00.44 %
 ```
 
 <!--END_SECTION:waka-->
