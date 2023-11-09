@@ -76,18 +76,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 38 hrs 47 mins
+Total Time: 39 hrs 58 mins
 
-Dart                          36 hrs 13 mins  >>>>>>>>>>>>>>>>>>>>>>>--   93.38 %
-YAML                          1 hr 11 mins    >------------------------   03.07 %
-Application Resource Bundle   25 mins         -------------------------   01.08 %
-Shell Script                  13 mins         -------------------------   00.60 %
-Text                          10 mins         -------------------------   00.46 %
-Gradle                        9 mins          -------------------------   00.42 %
+Dart                          37 hrs 45 mins  >>>>>>>>>>>>>>>>>>>>>>>>-   94.45 %
+YAML                          1 hr 8 mins     >------------------------   02.85 %
+Application Resource Bundle   25 mins         -------------------------   01.04 %
+Shell Script                  13 mins         -------------------------   00.58 %
+Gradle                        9 mins          -------------------------   00.40 %
 XML                           5 mins          -------------------------   00.24 %
-ObjectiveC                    5 mins          -------------------------   00.22 %
-Objective-C                   4 mins          -------------------------   00.21 %
-GitIgnore file                3 mins          -------------------------   00.16 %
+Objective-C                   4 mins          -------------------------   00.20 %
+GitIgnore file                3 mins          -------------------------   00.15 %
+Groovy                        0 secs          -------------------------   00.02 %
+Text                          0 secs          -------------------------   00.02 %
 ```
 
 <!--END_SECTION:waka-->
