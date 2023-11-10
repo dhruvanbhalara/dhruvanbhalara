@@ -55,7 +55,7 @@
   srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=dhruvanbhalara&count_private=true&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dhruvanbhalara&show_icons=true" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dhruvanbhalara&count_private=true&show_icons=true" />
 </picture>
 
 ### Most Used Languages
