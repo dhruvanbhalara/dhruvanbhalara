@@ -5,7 +5,6 @@
  [![Profile](https://komarev.com/ghpvc/?username=dhruvanbhalara&color=blue&style=flat)](https://github.com/dhruvanbhalara)
  [![Followers](https://img.shields.io/github/followers/dhruvanbhalara?style=social)](https://github.com/dhruvanbhalara?tab=followers)
  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/dhruvanbhalara)
- [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://linkedin.com/in/dhruvanbhalara/)
 <br>
 
 - 🔭 Checkout my work [Here](https://dhruvanbhalara.netlify.app)
@@ -18,7 +17,7 @@
 - 💬 Ask me about anything, I am happy to help.
 </br>
 
-<h3> ⚒️ Tools and Programming Languages:- </h3>
+## ⚒️ Tools and Programming Languages
 <picture>
 <source
   srcset="https://skillicons.dev/icons?i=flutter,dart,react,typescript,javascript,kotlin,swift,git,github,gitlab,firebase,mongodb,idea,androidstudio,figma,xd,githubactions,heroku,linux&theme=dark"
@@ -45,7 +44,7 @@
 <img src="dist/github-contribution-grid-snake.svg#gh-light-mode-only.svg" alt="Snake image" />
 </picture>
 
-<h3> Github Status</h3>
+## Github Status
 <picture>
 <source
   srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=dhruvanbhalara&count_private=true&show_icons=true&theme=dark"
@@ -58,7 +57,7 @@
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dhruvanbhalara&count_private=true&show_icons=true" />
 </picture>
 
-### Most Used Languages
+## Most Used Languages
 <picture>
 <source
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvanbhalara&layout=compact&langs_count=10&theme=dark"
@@ -72,7 +71,7 @@
 </picture>
 </br>
 
-### 📊 This week I spent my time on
+## 📊 This week I spent my time on
 <!--START_SECTION:waka-->
 
 ```txt
@@ -91,20 +90,6 @@ Cocoa                         0 secs          -------------------------   00.00 
 ```
 
 <!--END_SECTION:waka-->
-
-### 🏆 Github Trophies
-<picture>
-<source
-  srcset="https://github-profile-trophy.vercel.app/?username=dhruvanbhalara&column=4&margin-w=15&margin-h=25&theme=onedark&no-bg=false"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-profile-trophy.vercel.app/?username=dhruvanbhalara&column=4&margin-w=15&margin-h=25"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=dhruvanbhalara&show_icons=true" />
-</picture>
-</br>
 
 <div align="center">
   <h3 align="center">Connect with me<img align="center" src="Assets/Handshake.gif" height="33px" /></h3> 
