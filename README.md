@@ -75,13 +75,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 33 hrs 2 mins
+Total Time: 33 hrs 18 mins
 
-Dart                          31 hrs 1 min    >>>>>>>>>>>>>>>>>>>>>>>--   93.90 %
-YAML                          51 mins         >------------------------   02.58 %
-Application Resource Bundle   29 mins         -------------------------   01.50 %
-Markdown                      25 mins         -------------------------   01.29 %
-Shell Script                  14 mins         -------------------------   00.72 %
+Dart                          31 hrs 11 mins  >>>>>>>>>>>>>>>>>>>>>>>--   93.61 %
+YAML                          51 mins         >------------------------   02.56 %
+Application Resource Bundle   35 mins         -------------------------   01.79 %
+Markdown                      26 mins         -------------------------   01.31 %
+Shell Script                  14 mins         -------------------------   00.71 %
 XML                           0 secs          -------------------------   00.01 %
 textmate                      0 secs          -------------------------   00.00 %
 Text                          0 secs          -------------------------   00.00 %
