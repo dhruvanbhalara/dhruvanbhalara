@@ -75,12 +75,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 18 hrs 46 mins
+Total Time: 26 hrs 32 mins
 
-Dart                          18 hrs 41 mins  >>>>>>>>>>>>>>>>>>>>>>>>>   99.55 %
-YAML                          3 mins          -------------------------   00.33 %
-Application Resource Bundle   1 min           -------------------------   00.12 %
+Dart                          26 hrs 24 mins  >>>>>>>>>>>>>>>>>>>>>>>>>   99.45 %
+YAML                          7 mins          -------------------------   00.46 %
+Application Resource Bundle   1 min           -------------------------   00.09 %
 XML                           0 secs          -------------------------   00.00 %
+SVG                           0 secs          -------------------------   00.00 %
 ```
 
 <!--END_SECTION:waka-->
