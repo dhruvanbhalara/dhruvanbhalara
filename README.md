@@ -31,43 +31,30 @@
 <img src="https://skillicons.dev/icons?i=flutter,dart,react,typescript,javascript,kotlin,swift,git,github,gitlab,firebase,mongodb,idea,androidstudio,figma,xd,githubactions,heroku,linux&theme=light" alt="Tools and Programming Languages" />
 </picture>
 
-<picture>
-<source
-  srcset="dist/github-contribution-grid-snake-dark.svg#gh-dark-mode-only.svg"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="dist/github-contribution-grid-snake.svg#gh-light-mode-only.svg"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-
-<img src="dist/github-contribution-grid-snake.svg#gh-light-mode-only.svg" alt="Snake image" />
-</picture>
-
 ## Github Status
 <picture>
 <source
-  srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=dhruvanbhalara&count_private=true&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=dhruvanbhalara&include_all_commits=true&show_icons=true&theme=dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=dhruvanbhalara&count_private=true&show_icons=true"
+  srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=dhruvanbhalara&include_all_commits=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dhruvanbhalara&count_private=true&show_icons=true" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dhruvanbhalara&include_all_commits=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
 </picture>
 
 ## Most Used Languages
 <picture>
 <source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvanbhalara&layout=compact&langs_count=10&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvanbhalara&layout=compact&langs_count=10&theme=dark&hide_progress=true"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvanbhalara&layout=compact&langs_count=10"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvanbhalara&layout=compact&langs_count=10&hide_progress=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvanbhalara&layout=compact&langs_count=10" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvanbhalara&layout=compact&langs_count=10&hide_progress=true" />
 </picture>
 </br>
 
@@ -87,6 +74,19 @@ SVG                           0 secs          -------------------------   00.00 
 ```
 
 <!--END_SECTION:waka-->
+
+<picture>
+<source
+  srcset="dist/github-contribution-grid-snake-dark.svg#gh-dark-mode-only.svg"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="dist/github-contribution-grid-snake.svg#gh-light-mode-only.svg"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+
+<img src="dist/github-contribution-grid-snake.svg#gh-light-mode-only.svg" alt="Snake image" />
+</picture>
 
 <div align="center">
   <h3 align="center">Connect with me<img align="center" src="Assets/Handshake.gif" height="33px" /></h3> 
