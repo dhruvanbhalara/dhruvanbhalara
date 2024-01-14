@@ -61,16 +61,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 34 hrs 44 mins
+Total Time: 36 hrs 10 mins
 
-Dart                          31 hrs 58 mins  >>>>>>>>>>>>>>>>>>>>>>>--   92.06 %
-YAML                          58 mins         >------------------------   02.81 %
-Application Resource Bundle   31 mins         -------------------------   01.49 %
-Text                          21 mins         -------------------------   01.03 %
-Properties                    16 mins         -------------------------   00.79 %
-Java Properties               15 mins         -------------------------   00.72 %
-Groovy                        12 mins         -------------------------   00.58 %
-XML                           7 mins          -------------------------   00.38 %
+Dart                          33 hrs 22 mins  >>>>>>>>>>>>>>>>>>>>>>>--   92.29 %
+YAML                          58 mins         >------------------------   02.70 %
+Application Resource Bundle   32 mins         -------------------------   01.48 %
+Text                          21 mins         -------------------------   00.99 %
+Properties                    17 mins         -------------------------   00.79 %
+Java Properties               15 mins         -------------------------   00.69 %
+Groovy                        12 mins         -------------------------   00.56 %
+XML                           7 mins          -------------------------   00.37 %
 Markdown                      1 min           -------------------------   00.08 %
 Objective-C                   0 secs          -------------------------   00.02 %
 ```
