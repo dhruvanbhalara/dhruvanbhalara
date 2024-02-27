@@ -61,18 +61,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 31 hrs 27 mins
+Total Time: 26 hrs 52 mins
 
-Dart                          19 hrs 41 mins  >>>>>>>>>>>>>>>>---------   62.59 %
-Gradle                        2 hrs 38 mins   >>-----------------------   08.42 %
-Java Properties               2 hrs 32 mins   >>-----------------------   08.07 %
-YAML                          2 hrs 25 mins   >>-----------------------   07.73 %
-Groovy                        2 hrs 16 mins   >>-----------------------   07.23 %
-Properties                    51 mins         >------------------------   02.73 %
-Application Resource Bundle   18 mins         -------------------------   00.97 %
-Shrinker Config File          11 mins         -------------------------   00.61 %
-GitIgnore file                9 mins          -------------------------   00.49 %
-Markdown                      7 mins          -------------------------   00.39 %
+Dart                          15 hrs 18 mins  >>>>>>>>>>>>>>-----------   56.98 %
+Gradle                        2 hrs 38 mins   >>-----------------------   09.85 %
+YAML                          2 hrs 27 mins   >>-----------------------   09.15 %
+Java Properties               2 hrs 26 mins   >>-----------------------   09.10 %
+Groovy                        2 hrs 12 mins   >>-----------------------   08.22 %
+Properties                    51 mins         >------------------------   03.20 %
+Application Resource Bundle   14 mins         -------------------------   00.92 %
+Shrinker Config File          11 mins         -------------------------   00.71 %
+GitIgnore file                8 mins          -------------------------   00.52 %
+Markdown                      7 mins          -------------------------   00.45 %
 ```
 
 <!--END_SECTION:waka-->
