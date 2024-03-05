@@ -61,17 +61,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 23 hrs 34 mins
+Total Time: 27 hrs 21 mins
 
-Dart                          18 hrs 59 mins  >>>>>>>>>>>>>>>>>>>>-----   80.54 %
-YAML                          2 hrs 3 mins    >>-----------------------   08.75 %
-HTML                          54 mins         >------------------------   03.87 %
-Java Properties               53 mins         >------------------------   03.76 %
-GitIgnore file                21 mins         -------------------------   01.50 %
-textmate                      14 mins         -------------------------   01.05 %
-Text                          2 mins          -------------------------   00.21 %
-Gradle                        2 mins          -------------------------   00.14 %
-Application Resource Bundle   0 secs          -------------------------   00.07 %
+Dart                          22 hrs 46 mins  >>>>>>>>>>>>>>>>>>>>>----   83.23 %
+YAML                          1 hr 46 mins    >>-----------------------   06.47 %
+HTML                          54 mins         >------------------------   03.33 %
+Java Properties               53 mins         >------------------------   03.24 %
+GitIgnore file                21 mins         -------------------------   01.33 %
+textmate                      15 mins         -------------------------   00.93 %
+Text                          14 mins         -------------------------   00.89 %
+Markdown                      7 mins          -------------------------   00.43 %
+Application Resource Bundle   0 secs          -------------------------   00.06 %
 Shrinker Config File          0 secs          -------------------------   00.05 %
 ```
 
