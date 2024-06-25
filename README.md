@@ -61,18 +61,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 37 hrs 40 mins
+Total Time: 36 hrs 50 mins
 
-Dart                          36 hrs 51 mins  >>>>>>>>>>>>>>>>>>>>>>>>-   97.82 %
-YAML                          35 mins         -------------------------   01.59 %
+Dart                          36 hrs 13 mins  >>>>>>>>>>>>>>>>>>>>>>>>>   98.30 %
+YAML                          23 mins         -------------------------   01.08 %
 Text                          7 mins          -------------------------   00.33 %
 XML                           2 mins          -------------------------   00.13 %
 Markdown                      1 min           -------------------------   00.09 %
 Image (svg)                   0 secs          -------------------------   00.03 %
+Kotlin                        0 secs          -------------------------   00.02 %
 Properties                    0 secs          -------------------------   00.01 %
 Java Properties               0 secs          -------------------------   00.01 %
 Cocoa                         0 secs          -------------------------   00.00 %
-Application Resource Bundle   0 secs          -------------------------   00.00 %
 ```
 
 <!--END_SECTION:waka-->
