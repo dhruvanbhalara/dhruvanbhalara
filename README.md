@@ -61,18 +61,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 39 hrs 13 mins
+Total Time: 42 hrs 31 mins
 
-Dart                          35 hrs 1 min    >>>>>>>>>>>>>>>>>>>>>>---   89.30 %
-YAML                          2 hrs 7 mins    >------------------------   05.41 %
-Application Resource Bundle   41 mins         -------------------------   01.74 %
-Groovy                        24 mins         -------------------------   01.05 %
-textmate                      19 mins         -------------------------   00.83 %
-Gradle                        12 mins         -------------------------   00.52 %
-Text                          8 mins          -------------------------   00.37 %
-XML                           8 mins          -------------------------   00.35 %
-GitIgnore file                3 mins          -------------------------   00.16 %
-JSON                          1 min           -------------------------   00.08 %
+Dart                          38 hrs 14 mins  >>>>>>>>>>>>>>>>>>>>>>---   89.93 %
+YAML                          2 hrs 8 mins    >------------------------   05.02 %
+Application Resource Bundle   42 mins         -------------------------   01.67 %
+Groovy                        24 mins         -------------------------   00.97 %
+textmate                      19 mins         -------------------------   00.76 %
+Gradle                        12 mins         -------------------------   00.48 %
+Text                          8 mins          -------------------------   00.35 %
+XML                           8 mins          -------------------------   00.32 %
+GitIgnore file                3 mins          -------------------------   00.15 %
+Markdown                      3 mins          -------------------------   00.14 %
 ```
 
 <!--END_SECTION:waka-->
