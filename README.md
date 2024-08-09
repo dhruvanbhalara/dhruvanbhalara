@@ -61,15 +61,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 33 hrs 41 mins
+Total Time: 33 hrs 7 mins
 
-Dart                          32 hrs 50 mins  >>>>>>>>>>>>>>>>>>>>>>>>-   97.49 %
-YAML                          44 mins         >------------------------   02.21 %
-GitIgnore file                5 mins          -------------------------   00.25 %
-Markdown                      0 secs          -------------------------   00.03 %
-Text                          0 secs          -------------------------   00.02 %
-XML                           0 secs          -------------------------   00.00 %
-Application Resource Bundle   0 secs          -------------------------   00.00 %
+Dart             32 hrs 29 mins  >>>>>>>>>>>>>>>>>>>>>>>>>   98.07 %
+YAML             30 mins         -------------------------   01.55 %
+GitIgnore file   5 mins          -------------------------   00.26 %
+XML              1 min           -------------------------   00.08 %
+Markdown         0 secs          -------------------------   00.03 %
+Text             0 secs          -------------------------   00.02 %
 ```
 
 <!--END_SECTION:waka-->
