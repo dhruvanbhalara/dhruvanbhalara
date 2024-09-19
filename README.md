@@ -61,14 +61,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 7 hrs 36 mins
+Total Time: 10 hrs 15 mins
 
-Dart                          6 hrs 48 mins   >>>>>>>>>>>>>>>>>>>>>>---   89.66 %
-Application Resource Bundle   26 mins         >------------------------   05.81 %
-JSON                          12 mins         >------------------------   02.72 %
-YAML                          7 mins          -------------------------   01.72 %
-Text                          0 secs          -------------------------   00.05 %
-Image (svg)                   0 secs          -------------------------   00.02 %
+Dart                          9 hrs 22 mins   >>>>>>>>>>>>>>>>>>>>>>>--   91.29 %
+Application Resource Bundle   33 mins         >------------------------   05.36 %
+JSON                          12 mins         >------------------------   02.02 %
+YAML                          7 mins          -------------------------   01.27 %
+Text                          0 secs          -------------------------   00.04 %
+Image (svg)                   0 secs          -------------------------   00.01 %
 Swift                         0 secs          -------------------------   00.01 %
 XML                           0 secs          -------------------------   00.00 %
 GitIgnore file                0 secs          -------------------------   00.00 %
