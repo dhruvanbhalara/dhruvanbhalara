@@ -61,13 +61,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 8 hrs 44 mins
+Total Time: 7 hrs 58 mins
 
-Dart                          8 hrs 23 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   96.05 %
-Application Resource Bundle   17 mins         >------------------------   03.32 %
-Markdown                      1 min           -------------------------   00.37 %
-Bash                          0 secs          -------------------------   00.13 %
-YAML                          0 secs          -------------------------   00.06 %
+Dart                          7 hrs 41 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   96.45 %
+Application Resource Bundle   10 mins         >------------------------   02.28 %
+YAML                          3 mins          -------------------------   00.65 %
+Markdown                      1 min           -------------------------   00.40 %
+Bash                          0 secs          -------------------------   00.15 %
 Text                          0 secs          -------------------------   00.04 %
 JSON                          0 secs          -------------------------   00.02 %
 Cocoa                         0 secs          -------------------------   00.01 %
