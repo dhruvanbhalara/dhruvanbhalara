@@ -61,18 +61,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 10 hrs 37 mins
+Total Time: 9 hrs 50 mins
 
-Dart                          8 hrs 25 mins   >>>>>>>>>>>>>>>>>>>>-----   79.27 %
-textmate                      40 mins         >>-----------------------   06.32 %
-Text                          27 mins         >------------------------   04.26 %
-Other                         21 mins         >------------------------   03.35 %
-Bash                          15 mins         >------------------------   02.48 %
-YAML                          8 mins          -------------------------   01.32 %
-Java Properties               4 mins          -------------------------   00.68 %
-Kotlin                        4 mins          -------------------------   00.65 %
-Properties                    3 mins          -------------------------   00.60 %
-Application Resource Bundle   2 mins          -------------------------   00.41 %
+Dart                          7 hrs 34 mins   >>>>>>>>>>>>>>>>>>>------   77.09 %
+textmate                      40 mins         >>-----------------------   06.82 %
+Text                          27 mins         >------------------------   04.61 %
+Bash                          21 mins         >------------------------   03.68 %
+Other                         21 mins         >------------------------   03.61 %
+YAML                          5 mins          -------------------------   00.95 %
+Java Properties               4 mins          -------------------------   00.73 %
+Kotlin                        4 mins          -------------------------   00.71 %
+Properties                    3 mins          -------------------------   00.65 %
+Application Resource Bundle   2 mins          -------------------------   00.44 %
 ```
 
 <!--END_SECTION:waka-->
