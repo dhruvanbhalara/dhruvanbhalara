@@ -61,18 +61,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 8 hrs 33 mins
+Total Time: 9 hrs 43 mins
 
-Dart                          8 hrs 11 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   95.68 %
-Bash                          9 mins          -------------------------   01.84 %
-textmate                      9 mins          -------------------------   01.81 %
-Application Resource Bundle   2 mins          -------------------------   00.41 %
-Shell Script                  0 secs          -------------------------   00.19 %
-Text                          0 secs          -------------------------   00.04 %
-ObjectiveC                    0 secs          -------------------------   00.01 %
-JSON                          0 secs          -------------------------   00.01 %
-YAML                          0 secs          -------------------------   00.01 %
-Objective-C                   0 secs          -------------------------   00.00 %
+Dart                          8 hrs 41 mins   >>>>>>>>>>>>>>>>>>>>>>---   89.45 %
+textmate                      27 mins         >------------------------   04.64 %
+Bash                          20 mins         >------------------------   03.45 %
+YAML                          7 mins          -------------------------   01.20 %
+Image (svg)                   3 mins          -------------------------   00.67 %
+Application Resource Bundle   3 mins          -------------------------   00.54 %
+Text                          0 secs          -------------------------   00.03 %
+Objective-C                   0 secs          -------------------------   00.01 %
+Swift                         0 secs          -------------------------   00.00 %
+ObjectiveC                    0 secs          -------------------------   00.00 %
 ```
 
 <!--END_SECTION:waka-->
