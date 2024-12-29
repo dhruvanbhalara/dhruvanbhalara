@@ -61,18 +61,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 4 hrs 2 mins
+Total Time: 0 secs
 
-Dart                          3 hrs 51 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   95.37 %
-Application Resource Bundle   4 mins          -------------------------   01.95 %
-textmate                      2 mins          -------------------------   00.83 %
-Text                          1 min           -------------------------   00.77 %
-YAML                          1 min           -------------------------   00.54 %
-Other                         1 min           -------------------------   00.52 %
-ObjectiveC                    0 secs          -------------------------   00.02 %
-Shell Script                  0 secs          -------------------------   00.00 %
-Java                          0 secs          -------------------------   00.00 %
-Bash                          0 secs          -------------------------   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
