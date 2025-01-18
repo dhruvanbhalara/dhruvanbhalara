@@ -61,9 +61,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 20 mins
 
-No activity tracked
+Other   19 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   98.97 %
+Dart    0 secs          -------------------------   01.03 %
 ```
 
 <!--END_SECTION:waka-->
