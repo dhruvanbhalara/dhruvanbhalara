@@ -25,7 +25,7 @@ jobs:
           # a github token is required to fetch the contribution calendar from github API
           GITHUB_TOKEN: ${{ secrets.README_TOKEN }}
 
-      - uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v4
         with:
           path: dist/*
   
