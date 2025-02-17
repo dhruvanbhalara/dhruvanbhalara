@@ -61,9 +61,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 2 hrs
 
-No activity tracked
+Dart             1 hr 14 mins    >>>>>>>>>>>>>>>>---------   62.02 %
+Markdown         24 mins         >>>>>--------------------   20.61 %
+Properties       7 mins          >>-----------------------   06.57 %
+Gradle           6 mins          >------------------------   05.45 %
+GitIgnore file   4 mins          >------------------------   03.84 %
+Groovy           1 min           -------------------------   01.03 %
+YAML             0 secs          -------------------------   00.47 %
+textmate         0 secs          -------------------------   00.01 %
 ```
 
 <!--END_SECTION:waka-->
