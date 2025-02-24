@@ -17,6 +17,8 @@
 - 💬 Ask me about anything, I am happy to help.
 
 ## ⚒️ Tools and Programming Languages
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,typescript,javascript,kotlin,swift,git,github,gitlab,firebase,mongodb,idea,androidstudio,figma,xd,githubactions,heroku,linux&theme=light" alt="Tools and Programming Languages" />
+<!---
 <picture>
 <source
   srcset="https://skillicons.dev/icons?i=flutter,dart,react,typescript,javascript,kotlin,swift,git,github,gitlab,firebase,mongodb,idea,androidstudio,figma,xd,githubactions,heroku,linux&theme=dark"
@@ -29,6 +31,7 @@
 
 <img src="https://skillicons.dev/icons?i=flutter,dart,react,typescript,javascript,kotlin,swift,git,github,gitlab,firebase,mongodb,idea,androidstudio,figma,xd,githubactions,heroku,linux&theme=light" alt="Tools and Programming Languages" />
 </picture>
+--->
 
 ## Github Status
 <picture>
