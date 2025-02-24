@@ -76,19 +76,6 @@ Other             0 secs          -------------------------   00.08 %
 
 <!--END_SECTION:waka-->
 
-<picture>
-<source
-  srcset="dist/github-contribution-grid-snake-dark.svg#gh-dark-mode-only.svg"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="dist/github-contribution-grid-snake.svg#gh-light-mode-only.svg"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-
-<img src="dist/github-contribution-grid-snake.svg#gh-light-mode-only.svg" alt="Snake image" />
-</picture>
-
 <div align="center">
   <h3 align="center">Connect with me<img align="center" src="Assets/Handshake.gif" height="33px" /></h3> 
 </div>
