@@ -64,17 +64,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 hrs 18 mins
+Total Time: 2 hrs 27 mins
 
-Dart              1 hr 51 mins    >>>>>>>>>>>>>>>>>>>>-----   80.53 %
-GitIgnore file    15 mins         >>>----------------------   11.52 %
-YAML              8 mins          >>-----------------------   06.15 %
-Java Properties   1 min           -------------------------   00.83 %
-Kotlin            0 secs          -------------------------   00.29 %
-Properties        0 secs          -------------------------   00.25 %
-IDEA_MODULE       0 secs          -------------------------   00.22 %
-Markdown          0 secs          -------------------------   00.12 %
-Other             0 secs          -------------------------   00.08 %
+Dart              1 hr 56 mins    >>>>>>>>>>>>>>>>>>>>-----   79.07 %
+GitIgnore file    16 mins         >>>----------------------   10.83 %
+YAML              9 mins          >>-----------------------   06.15 %
+Properties        3 mins          >------------------------   02.31 %
+Java Properties   1 min           -------------------------   00.87 %
+Kotlin            0 secs          -------------------------   00.32 %
+IDEA_MODULE       0 secs          -------------------------   00.21 %
+Markdown          0 secs          -------------------------   00.17 %
+Other             0 secs          -------------------------   00.07 %
+Text              0 secs          -------------------------   00.00 %
 ```
 
 <!--END_SECTION:waka-->
