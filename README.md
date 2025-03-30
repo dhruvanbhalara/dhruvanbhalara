@@ -64,12 +64,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 22 mins
+Total Time: 0 secs
 
-Dart             21 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   98.19 %
-JSON             0 secs          -------------------------   00.90 %
-GitIgnore file   0 secs          -------------------------   00.66 %
-Markdown         0 secs          -------------------------   00.25 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
