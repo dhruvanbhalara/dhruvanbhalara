@@ -64,10 +64,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 9 mins
+Total Time: 4 hrs 3 mins
 
-Dart   1 hr 9 mins     >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
-YAML   0 secs          -------------------------   00.00 %
+Dart         3 hrs 49 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   94.57 %
+YAML         4 mins          -------------------------   01.77 %
+Markdown     3 mins          -------------------------   01.64 %
+JavaScript   3 mins          -------------------------   01.55 %
+PowerShell   0 secs          -------------------------   00.30 %
+Text         0 secs          -------------------------   00.18 %
 ```
 
 <!--END_SECTION:waka-->
