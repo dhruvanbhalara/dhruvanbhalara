@@ -64,11 +64,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 7 mins
+Total Time: 0 secs
 
-Dart       59 mins         >>>>>>>>>>>>>>>>>>>>>>---   87.51 %
-YAML       8 mins          >>>----------------------   12.32 %
-Markdown   0 secs          -------------------------   00.17 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
