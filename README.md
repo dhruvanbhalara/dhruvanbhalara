@@ -64,9 +64,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 22 hrs 43 mins
 
-No activity tracked
+Dart             19 hrs 5 mins   >>>>>>>>>>>>>>>>>>>>>----   83.99 %
+Markdown         1 hr 51 mins    >>-----------------------   08.14 %
+YAML             58 mins         >------------------------   04.28 %
+Bash             23 mins         -------------------------   01.74 %
+XML              7 mins          -------------------------   00.52 %
+Text             5 mins          -------------------------   00.39 %
+Other            3 mins          -------------------------   00.29 %
+JSON             3 mins          -------------------------   00.22 %
+Kotlin           1 min           -------------------------   00.11 %
+ObjectiveC       1 min           -------------------------   00.09 %
 ```
 
 <!--END_SECTION:waka-->
