@@ -64,18 +64,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 33 hrs 14 mins
+Total Time: 36 hrs 12 mins
 
-Dart                          28 hrs 17 mins  >>>>>>>>>>>>>>>>>>>>>----   85.11 %
-JSON                          3 hrs 12 mins   >>-----------------------   09.67 %
-Markdown                      52 mins         >------------------------   02.63 %
-Git Config                    11 mins         -------------------------   00.56 %
-YAML                          11 mins         -------------------------   00.56 %
-Other                         10 mins         -------------------------   00.54 %
-MDX                           8 mins          -------------------------   00.41 %
-JSON with Comments            5 mins          -------------------------   00.25 %
-Text                          3 mins          -------------------------   00.17 %
-ObjectiveC                    1 min           -------------------------   00.07 %
+Dart                          34 hrs 21 mins  >>>>>>>>>>>>>>>>>>>>>>>>-   94.90 %
+YAML                          54 mins         >------------------------   02.51 %
+JSON                          19 mins         -------------------------   00.92 %
+Java Properties               12 mins         -------------------------   00.56 %
+Application Resource Bundle   9 mins          -------------------------   00.42 %
+Markdown                      5 mins          -------------------------   00.25 %
+XML                           4 mins          -------------------------   00.19 %
+Other                         3 mins          -------------------------   00.16 %
+JSON with Comments            0 secs          -------------------------   00.04 %
+ObjectiveC                    0 secs          -------------------------   00.04 %
 ```
 
 <!--END_SECTION:waka-->
