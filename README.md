@@ -23,7 +23,7 @@
 
 ```typescript
 const dhruvan = {
-    title: "Senior Mobile Engineer",
+    title: "Senior Software Engineer",
     experience: "7+ years",
     specialization: ["Flutter", "Dart", "Mobile Architecture"],
     currently: "Building scalable cross-platform applications",
@@ -61,15 +61,14 @@ const dhruvan = {
 
 <br/>
 
-## � GitHub Statistics
+##  GitHub Statistics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dhruvanbhalara&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvanbhalara&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+ 
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvanbhalara&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+ 
 </div>
 
 <br/>
