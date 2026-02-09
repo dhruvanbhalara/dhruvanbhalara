@@ -1,8 +1,6 @@
 name: Snake Animation
 
 on:
-  push:
-    branches: [feat/modern-readme]
   schedule:
     # Runs on sunday at 12am UTC
     - cron: "0 0 * * 0"
