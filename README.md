@@ -8,7 +8,28 @@
 
 ### 👨‍💻 About Me
 
-I architect scalable, high-performance mobile applications with a focus on **Flutter** and **Clean Architecture**. My ecosystem spans from intricate UI/UX to robust backend microservices.
+Senior Mobile Engineer with **7+ years of experience** in Flutter, Android, iOS, and cross-platform development. I architect scalable, high-performance mobile applications with a focus on **Clean Architecture**, **TDD**, and **CI/CD**. My expertise spans from intricate UI/UX to robust backend microservices using **Firebase** and **AWS**.
+
+<br/>
+
+### 💼 Professional Experience
+
+- **Senior Software Engineer @ Wipro Limited** (08/2023 - Present)
+    - Led high-performance iOS/Android dev using Flutter, Kotlin, & Swift.
+    - Designed automated CI/CD pipelines (GitHub Actions, Fastlane), reducing release time by 30%.
+- **Flutter Developer @ Hyperlink Infosystem** (05/2021 - 08/2023)
+    - Built scalable mobile & PWA apps with modular Clean Architecture.
+    - Mentored junior developers, boosting team proficiency by 30%.
+- **Mobile Engineer @ Complitech Solutions** (11/2019 - 04/2021)
+    - Engineered seamless React Native integrations & optimized Flutter app performance.
+
+<br/>
+
+### 🚀 Key Projects
+
+- **ZOS NG**: Offline-first insurance application with custom state management and golden tests.
+- **PowerX Terra**: IoT energy monitoring dashboard integrating real-time analytics and AWS.
+- **SOUNDIT**: Next-gen social audio platform fostering real-time conversations.
 
 <br/>
 
@@ -27,9 +48,9 @@ I architect scalable, high-performance mobile applications with a focus on **Flu
 ### 🛠 Tech Stack
 
 <div align="left">
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,react,nodejs&theme=dark&perline=10" /><br/>
-<img src="https://skillicons.dev/icons?i=firebase,mongodb,go,python&theme=dark&perline=10" /><br/>
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,react,ts,js&theme=dark&perline=10" /><br/>
+<img src="https://skillicons.dev/icons?i=firebase,aws,mongodb,go,python&theme=dark&perline=10" /><br/>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,bitbucket,docker,linux&theme=dark&perline=10" />
 </div>
 
 <br/>
