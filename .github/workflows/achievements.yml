@@ -11,13 +11,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: Schweinepriester/github-profile-achievements@v1
-        with:
-          token: ${{ secrets.README_TOKEN }}
-          user: dhruvanbhalara
-          out_path: dist/achievements.svg
-          style: flat
-          limit: 8
+      - name: Generate Trophy SVG
+        run: |
+          curl -o dist/achievements.svg "https://github-profile-trophy.vercel.app/?username=dhruvanbhalara&theme=nord&column=4&margin-w=15&margin-h=15&no-frame=true"
       - name: Commit & Push
         run: |
           git config user.name "github-actions[bot]"
