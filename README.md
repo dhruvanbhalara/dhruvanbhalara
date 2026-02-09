@@ -64,11 +64,34 @@ const dhruvan = {
 ##  GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dhruvanbhalara&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
- 
-</div>
 
- 
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Total_Commits-4,002-5bcdec?style=for-the-badge&logo=git&logoColor=white" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Current_Streak-2_Days-5bcdec?style=for-the-badge&logo=github&logoColor=white" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Longest_Streak-353_Days-5bcdec?style=for-the-badge&logo=github&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Total_Stars-16-5bcdec?style=for-the-badge&logo=github&logoColor=white" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Total_PRs-83-5bcdec?style=for-the-badge&logo=git&logoColor=white" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Contributed_Repos-7-5bcdec?style=for-the-badge&logo=github&logoColor=white" />
+</td>
+</tr>
+</table>
+
+**Primary Languages:** Dart • Flutter • Kotlin • TypeScript • Go
+
 </div>
 
 <br/>
