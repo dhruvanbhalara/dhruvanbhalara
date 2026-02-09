@@ -35,7 +35,7 @@ Senior Mobile Engineer with **7+ years of experience** in Flutter, Android, iOS,
 
 ### 🏆 Achievements
 
-<img src="dist/achievements.svg" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=dhruvanbhalara&theme=nord&column=4&row=2&margin-w=15&margin-h=15&no-frame=true" width="100%" />
 
 <br/>
 
@@ -70,7 +70,9 @@ Senior Mobile Engineer with **7+ years of experience** in Flutter, Android, iOS,
 
 ### 📊 Weekly Productivity
 
-<img src="dist/wakatime.svg" width="100%" />
+<a href="https://wakatime.com/@dhruvanbhalara">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=dhruvanbhalara&theme=tokyonight&hide_border=true&bg_color=0d1117&layout=compact" width="100%" />
+</a>
 
 <div align="center">
 <img src="Assets/Handshake.gif" height="40px" />
