@@ -1,7 +1,7 @@
 
 <!-- Header -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Dhruvan%20Bhalara&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Flutter%20Architect%20%26%20Open%20Source%20Contributor&descAlignY=55&descSize=25" width="100%" />
+<img src="Assets/Developer.gif" width="100" />
 </div>
 
 <br/>
@@ -36,9 +36,7 @@ I architect scalable, high-performance mobile applications with a focus on **Flu
 
 ### � Achievements
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=dhruvanbhalara&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" width="100%" />
-</a>
+<img src="Assets/Rocket.gif" width="100%" />
 
 <br/>
 
