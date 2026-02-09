@@ -1,25 +1,21 @@
-name: Update stats
+name: WakaTime Stats
 
 on:
   schedule:
-    # Runs on sunday at 12am UTC
-    - cron: '0 0 * * 0'
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
   update-readme:
-    name: Update Readme with Metrics
+    name: Generate WakaTime SVG
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: lowlighter/metrics@latest
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: false
-          BLOCKS: ->
-          SHOW_TIME: true
-          SHOW_MASKED_TIME: true
-          LANG_COUNT: 10
-          COMMITTER_NAME: Dhruvan Bhalara
-          COMMITTER_EMAIL: dhruvanbhalara@users.noreply.github.com
-          AUTHOR_NAME: Dhruvan Bhalara
-          AUTHOR_EMAIL: dhruvanbhalara@users.noreply.github.com
+          token: ${{ secrets.README_TOKEN }}
+          filename: dist/wakatime.svg
+          base: ""
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+          plugin_wakatime_sections: time, languages
+          plugin_wakatime_days: 7
