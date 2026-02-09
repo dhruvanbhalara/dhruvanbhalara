@@ -36,7 +36,7 @@ I architect scalable, high-performance mobile applications with a focus on **Flu
 
 ### � Achievements
 
-<img src="Assets/Rocket.gif" width="100%" />
+<img src="Assets/Achievements.png" width="100%" />
 
 <br/>
 
