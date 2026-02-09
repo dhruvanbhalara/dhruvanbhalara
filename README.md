@@ -70,22 +70,7 @@ Senior Mobile Engineer with **7+ years of experience** in Flutter, Android, iOS,
 
 ### 📊 Weekly Productivity
 
-<!--START_SECTION:waka-->
-```txt
-Total Time: 8 hrs 39 mins
-
-Markdown             5 hrs 41 mins   >>>>>>>>>>>>>>>>---------   65.77 %
-Dart                 2 hrs 17 mins   >>>>>>>------------------   26.56 %
-Bash                 20 mins         >------------------------   03.99 %
-JSON                 11 mins         >------------------------   02.28 %
-Other                3 mins          -------------------------   00.63 %
-Python               3 mins          -------------------------   00.61 %
-JSON with Comments   0 secs          -------------------------   00.05 %
-YAML                 0 secs          -------------------------   00.05 %
-Git Config           0 secs          -------------------------   00.04 %
-Git                  0 secs          -------------------------   00.01 %
-```
-<!--END_SECTION:waka-->
+<img src="dist/wakatime.svg" width="100%" />
 
 <div align="center">
 <img src="Assets/Handshake.gif" height="40px" />
