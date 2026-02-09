@@ -1,11 +1,13 @@
 name: Snake Animation
 
 on:
+  push:
+    branches: [feat/modern-readme]
   schedule:
     # Runs on sunday at 12am UTC
-    - cron: '0 0 * * 0'
+    - cron: "0 0 * * 0"
   workflow_dispatch:
-    
+
 jobs:
   generate:
     name: Github Contribution Snake Animation
@@ -28,7 +30,7 @@ jobs:
       - uses: actions/upload-artifact@v4
         with:
           path: dist/*
-  
+
   upload:
     needs: [generate]
     runs-on: ubuntu-latest
@@ -42,13 +44,12 @@ jobs:
       - name: Move artifacts to dist
         run: |
           rm -rf dist
-          mv downloads/artifact/ dist/ 
+          mv downloads/artifact/ dist/
       - name: Commit & push changes
         uses: EndBug/add-and-commit@v9
         env:
           GITHUB_TOKEN: ${{ secrets.README_TOKEN }}
         with:
-          add: 'dist'
+          add: "dist"
           message: Update github contribution snake animation
           commit: --signoff
-    
