@@ -61,7 +61,7 @@ const dhruvan = {
 
 <br/>
 
-##  GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
