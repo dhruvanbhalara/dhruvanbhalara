@@ -12,31 +12,9 @@ Senior Mobile Engineer with **7+ years of experience** in Flutter, Android, iOS,
 
 <br/>
 
-### 💼 Professional Experience
-
-- **Senior Software Engineer @ Wipro Limited** (08/2023 - Present)
-    - Led high-performance iOS/Android dev using Flutter, Kotlin, & Swift.
-    - Designed automated CI/CD pipelines (GitHub Actions, Fastlane), reducing release time by 30%.
-- **Flutter Developer @ Hyperlink Infosystem** (05/2021 - 08/2023)
-    - Built scalable mobile & PWA apps with modular Clean Architecture.
-    - Mentored junior developers, boosting team proficiency by 30%.
-- **Mobile Engineer @ Complitech Solutions** (11/2019 - 04/2021)
-    - Engineered seamless React Native integrations & optimized Flutter app performance.
-
-<br/>
-
-### 🚀 Key Projects
-
-- **ZOS NG**: Offline-first insurance application with custom state management and golden tests.
-- **PowerX Terra**: IoT energy monitoring dashboard integrating real-time analytics and AWS.
-- **SOUNDIT**: Next-gen social audio platform fostering real-time conversations.
-
-<br/>
-
 ### 🤝 Connect
 
 <p align="left">
-<a href="https://dhruvanbhalara.short.gy/github-profile"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://dhruvanbhalara.short.gy/linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://dhruvanbhalara.short.gy/twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://dhruvanbhalara.short.gy/telegram"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
@@ -55,7 +33,7 @@ Senior Mobile Engineer with **7+ years of experience** in Flutter, Android, iOS,
 
 <br/>
 
-### � Achievements
+### 🏆 Achievements
 
 <img src="dist/achievements.svg" width="100%" />
 
