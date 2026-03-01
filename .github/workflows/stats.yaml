@@ -1,0 +1,22 @@
+name: WakaTime Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update README with WakaTime Stats
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_USERNAME: dhruvanbhalara
+          SECTION_NAME: waka
+          COMMIT_MESSAGE: "chore: update wakatime productivity stats"
+          COMMITTER_NAME: dhruvanbhalara
+          COMMITTER_EMAIL: dhruvanbhalara@users.noreply.github.com
+          AUTHOR_NAME: dhruvanbhalara
+          AUTHOR_EMAIL: dhruvanbhalara@users.noreply.github.com

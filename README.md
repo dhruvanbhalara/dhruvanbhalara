@@ -102,6 +102,13 @@ const dhruvan = {
 
 <br/>
 
+## 📊 Weekly Productivity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<br/>
+
 ## 🏆 Achievements
 
 <div align="center">
