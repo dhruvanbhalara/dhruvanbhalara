@@ -105,6 +105,15 @@ const dhruvan = {
 ## 📊 Weekly Productivity
 
 <!--START_SECTION:waka-->
+
+```txt
+Dart       16 hrs 7 mins         ███████████████▓░░░░░░░░░   63.02 %
+Markdown   5 hrs 12 mins         █████░░░░░░░░░░░░░░░░░░░░   20.37 %
+YAML       2 hrs 9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 %
+JSON       1 hr 11 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
+Text       18 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+```
+
 <!--END_SECTION:waka-->
 
 <br/>
