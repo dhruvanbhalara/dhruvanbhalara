@@ -107,11 +107,11 @@ const dhruvan = {
 <!--START_SECTION:waka-->
 
 ```txt
-Dart         16 hrs 36 mins        █████████████▓░░░░░░░░░░░   54.71 %
-Markdown     7 hrs 53 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.01 %
-YAML         2 hrs 43 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.00 %
-JSON         1 hr 13 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
-JavaScript   1 hr 9 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
+Dart         13 hrs 10 mins        ███████████▓░░░░░░░░░░░░░   46.36 %
+Markdown     9 hrs 11 mins         ████████░░░░░░░░░░░░░░░░░   32.34 %
+YAML         2 hrs 36 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.15 %
+JSON         1 hr 27 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
+JavaScript   1 hr 19 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
 ```
 
 <!--END_SECTION:waka-->
