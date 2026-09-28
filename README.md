@@ -138,11 +138,11 @@ Here is a unified grid of technologies I work with daily:
 <!--START_SECTION:waka-->
 
 ```txt
-Dart        5 hrs 32 mins         █████████████▓░░░░░░░░░░░   54.75 %
-Markdown    2 hrs 2 mins          █████░░░░░░░░░░░░░░░░░░░░   20.18 %
-CocoaPods   1 hr 23 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.76 %
-Other       57 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.46 %
-YAML        8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+Dart                 16 hrs 5 mins         ███████████████████▒░░░░░   77.58 %
+Markdown             2 hrs 52 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.86 %
+JSON                 31 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+Bash                 30 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
+Other                26 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
 ```
 
 <!--END_SECTION:waka-->
