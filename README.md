@@ -138,11 +138,11 @@ Here is a unified grid of technologies I work with daily:
 <!--START_SECTION:waka-->
 
 ```txt
-Dart       4 hrs 48 mins         █████████████░░░░░░░░░░░░   51.57 %
-Markdown   2 hrs 32 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.23 %
-Other      47 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 %
-Diff       29 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
-JSON       27 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
+Markdown   4 hrs 28 mins         ████████▓░░░░░░░░░░░░░░░░   34.86 %
+Dart       4 hrs 16 mins         ████████▒░░░░░░░░░░░░░░░░   33.36 %
+JSON       1 hr 58 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.43 %
+Other      59 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 %
+Kotlin     41 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
 ```
 
 <!--END_SECTION:waka-->
